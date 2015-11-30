@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class QuadraticEquation {
     public static void main(String[] args){
-        String Ups = "Ups! You have entered not numbers";
+        String Ups = "Ups! You have entered not number";
         Scanner n = new Scanner(System.in);
         System.out.print("Enter a: ");
         if (n.hasNextFloat()){

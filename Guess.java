@@ -4,7 +4,7 @@
 /*
     Number Guessing Game. A summary:
     In method main():
-        - Randomly select one of those colors in the array as the target
+        - Randomly select number in the range 1 to 100 as the target
         - Optionally: display the target (to help with debugging);
         - Go into a loop which
             - Shows the range of numbers and asks the player for their guess 'I am thinking of a number in the range 1 to 100. What is the number?'
