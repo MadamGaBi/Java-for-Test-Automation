@@ -4,26 +4,26 @@
 import java.util.Scanner; // импортируем класс
 
 public class Calculator {
-    public static int sum(int a, int b){
-        int result = a + b;
+    public static double sum(double a, double b){
+        double result = a + b;
         return result;
     }
-    public static int sub(int a, int b){
-        int result = a - b;
+    public static double sub(double a, double b){
+        double result = a - b;
         return result;
     }
-    public static int div(int a, int b){
-        int result = a / b;
+    public static double div(double a, double b){
+        double result = a / b;
         return result;
     }
-    public static int mult(int a, int b){
-        int result = a * b;
+    public static double mult(double a, double b){
+        double result = a * b;
         return result;
     }
     public static void main(String[] args) {
         String choice;
-        int theFirstNumber;
-        int theSecondNumber;
+        double theFirstNumber;
+        double theSecondNumber;
         boolean finished = false;
 
         while (!finished){
