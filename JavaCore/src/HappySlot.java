@@ -40,7 +40,7 @@ public class HappySlot {
             System.out.println("Let's play again? Y/N");
             Scanner game = new Scanner(System.in);
             String choice = game.next();
-            if (choice.equals("N")) {
+            if (choice.equals("N") || choice.equals("n")) {
                 ending = true;
             }
         }
