@@ -1,5 +1,9 @@
-*/.idea/*
-*/out/*
-*/*.iml
+JavaCore/.idea/*
+JavaOOP/.idea/*
+JavaCore/out/*
+JavaOOP/out/*
+JavaCore/*.iml
+JavaOOP/*.iml
 .idea/*
+*.iml
 *.ini
