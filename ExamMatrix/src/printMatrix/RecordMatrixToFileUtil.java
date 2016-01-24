@@ -9,18 +9,18 @@ import java.io.IOException;
  */
 
 public class RecordMatrixToFileUtil {
-    public static void fileInform(String s) {
+    public static void fileInform(String text) {
         /*
         Prints string text
          */
-        System.out.println(s);
+        System.out.println(text);
     }
 
-    public static File fileCreate() throws IOException {
+    public static File fileCreate(String fileName) throws IOException {
         /*
-        Creates file .txt
+        Creates file
          */
-        File fileWithMatrix = new File("matrix.txt");
+        File fileWithMatrix = new File(fileName);
         if (!fileWithMatrix.exists()) {
             fileWithMatrix.createNewFile();
         }
