@@ -1,5 +1,5 @@
 /**
- * Created by BIL on 18.12.2015.
+ * Created by GaBi on 18.12.2015.
  */
 public class FishMaster {
     public static void main(String[] args) {
