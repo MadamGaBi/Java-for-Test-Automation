@@ -1,0 +1,11 @@
+2016-07-24 17:07:06.234 [INFO ] [main] [SearchPage:search:31] [8484] -- [[FirefoxDriver: firefox on WINDOWS (661c64c5-033d-4c8a-97b0-39d0f8ad6cb4)] -> id: lst-ib]
+2016-07-24 17:07:08.701 [INFO ] [main] [SearchPage:search:32] [10951] -- [[FirefoxDriver: firefox on WINDOWS (661c64c5-033d-4c8a-97b0-39d0f8ad6cb4)] -> id: sblsbb]
+2016-07-24 17:07:09.014 [INFO ] [main] [ResultsPage:getPagesReturned:31] [11264] -- [[FirefoxDriver: firefox on WINDOWS (661c64c5-033d-4c8a-97b0-39d0f8ad6cb4)] -> xpath: //*[@id='center_col']/div[2]]
+2016-07-24 17:07:09.237 [INFO ] [main] [ResultsPage:getPagesReturned:32] [11487] -- [[FirefoxDriver: firefox on WINDOWS (661c64c5-033d-4c8a-97b0-39d0f8ad6cb4)] -> xpath: //*[@id='pnnext']]
+2016-07-24 17:07:26.120 [INFO ] [main] [ResultsPage:getPagesReturned:37] [28370] -- [[FirefoxDriver: firefox on WINDOWS (661c64c5-033d-4c8a-97b0-39d0f8ad6cb4)] -> xpath: //*[@id='resultStats']]
+2016-07-24 17:07:26.191 [INFO ] [main] [ScreenShot:getScreenShot:24] [28441] -- [[FirefoxDriver: firefox on WINDOWS (661c64c5-033d-4c8a-97b0-39d0f8ad6cb4)] -> xpath: //*[@class='f kv _SWb']/cite[contains(text(),'vit.ua')]]
+2016-07-24 17:07:27.244 [INFO ] [main] [ResultsPage:getPagesReturned:31] [29494] -- [[FirefoxDriver: firefox on WINDOWS (661c64c5-033d-4c8a-97b0-39d0f8ad6cb4)] -> xpath: //*[@id='center_col']/div[2]]
+2016-07-24 17:07:27.262 [INFO ] [main] [ResultsPage:getPagesReturned:32] [29512] -- [[FirefoxDriver: firefox on WINDOWS (661c64c5-033d-4c8a-97b0-39d0f8ad6cb4)] -> xpath: //*[@id='pnnext']]
+2016-07-24 17:07:28.558 [INFO ] [main] [ResultsPage:getPagesReturned:37] [30808] -- [[FirefoxDriver: firefox on WINDOWS (661c64c5-033d-4c8a-97b0-39d0f8ad6cb4)] -> xpath: //*[@id='resultStats']]
+2016-07-24 17:07:28.605 [INFO ] [main] [ScreenShot:getScreenShot:24] [30855] -- [[FirefoxDriver: firefox on WINDOWS (661c64c5-033d-4c8a-97b0-39d0f8ad6cb4)] -> xpath: //*[@class='f kv _SWb']/cite[contains(text(),'vit.ua')]]
+2016-07-24 17:07:29.518 [INFO ] [main] [SearchRunner:mainTest:39] [31768] -- Результатов: примерно 536 000, страница 5 (0,52 сек.) 
