@@ -50,6 +50,7 @@ ExamMatrix/*.txt
 WikiScreen/*.png
 ScreenShot/*.png
 OscylohrafWithPageObject/*.png
+OscylohrafWithPageObject/src/log4j2.xml
 Oscylohraf/*.png
 
 .idea/*
