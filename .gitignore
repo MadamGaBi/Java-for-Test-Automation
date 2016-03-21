@@ -5,6 +5,14 @@ Exception/.idea/*
 ExamMatrix/.idea/*
 Prj3/.idea/*
 ProjTestWithMaven/.idea/*
+EvenOrOdd/.idea/*
+GmailTestWithPageObject/.idea/*
+MyExceptions/.idea/*
+Oscylohraf/.idea/*
+OscylohrafWithPageObject/.idea/*
+ScreenShot/.idea/*
+UseLogerWithHello/.idea/*
+WikiScreen/.idea/*
 
 JavaCore/out/*
 JavaOOP/out/*
@@ -13,6 +21,14 @@ Exception/out/*
 ExamMatrix/out/*
 Prj3/out/*
 ProjTestWithMaven/target/*
+EvenOrOdd/out/*
+GmailTestWithPageObject/out/*
+MyExceptions/out/*
+Oscylohraf/out/*
+OscylohrafWithPageObject/out/*
+ScreenShot/out/*
+UseLogerWithHello/target/*
+WikiScreen/out/*
 
 JavaCore/*.iml
 JavaOOP/*.iml
@@ -21,8 +37,20 @@ Exception/*.iml
 ExamMatrix/*.iml
 Prj3/*.iml
 ProjTestWithMaven/*.iml
+EvenOrOdd/*.iml
+GmailTestWithPageObject/*.iml
+MyExceptions/*.iml
+Oscylohraf/*.iml
+OscylohrafWithPageObject/*.iml
+ScreenShot/*.iml
+UseLogerWithHello/*.iml
+WikiScreen/*.iml
 
 ExamMatrix/*.txt
+WikiScreen/*.png
+ScreenShot/*.png
+OscylohrafWithPageObject/*.png
+Oscylohraf/*.png
 
 .idea/*
 *.iml
