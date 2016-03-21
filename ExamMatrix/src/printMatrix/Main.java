@@ -11,6 +11,9 @@ public class Main {
 //        Creates matrix
         int[][] matrix = CreateMatrixUtil.buildMatrix(CreateMatrixUtil.enterDimensionOfMatrix());
 
+//        Deletes file matrix.txt if it already exists
+        RecordMatrixToFileUtil.fileDelete("matrix.txt");
+
 //        Creates file and write matrix (table) in file
         RecordMatrixToFileUtil.writeStringInFile("Square matrix with random elements from -100 to 100:", RecordMatrixToFileUtil.fileCreate("matrix.txt"));
         RecordMatrixToFileUtil.writeMatrixInFile(matrix, RecordMatrixToFileUtil.fileCreate("matrix.txt"));

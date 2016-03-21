@@ -21,10 +21,21 @@ public class RecordMatrixToFileUtil {
         Creates file
          */
         File fileWithMatrix = new File(fileName);
-        if (!fileWithMatrix.exists()) {
-            fileWithMatrix.createNewFile();
-        }
+//        if (fileWithMatrix.exists()) {
+//            fileWithMatrix.delete();
+//        }
+        fileWithMatrix.createNewFile();
         return fileWithMatrix;
+    }
+
+    public static void fileDelete(String fileName) throws IOException {
+        /*
+        Deletes file
+         */
+        File fileWithMatrix = new File(fileName);
+        if (fileWithMatrix.exists()) {
+            fileWithMatrix.delete();
+        }
     }
 
     public static void writeMatrixInFile(int[][] matrix, File fileWithMatrix) throws IOException {
