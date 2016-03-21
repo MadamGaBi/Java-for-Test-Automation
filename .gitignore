@@ -13,6 +13,7 @@ OscylohrafWithPageObject/.idea/*
 ScreenShot/.idea/*
 UseLogerWithHello/.idea/*
 WikiScreen/.idea/*
+OscylografPOLog4j/.idea/*
 
 JavaCore/out/*
 JavaOOP/out/*
@@ -29,6 +30,7 @@ OscylohrafWithPageObject/out/*
 ScreenShot/out/*
 UseLogerWithHello/target/*
 WikiScreen/out/*
+OscylografPOLog4j/target/*
 
 JavaCore/*.iml
 JavaOOP/*.iml
@@ -45,6 +47,7 @@ OscylohrafWithPageObject/*.iml
 ScreenShot/*.iml
 UseLogerWithHello/*.iml
 WikiScreen/*.iml
+OscylografPOLog4j/*.iml
 
 ExamMatrix/*.txt
 WikiScreen/*.png
@@ -52,6 +55,7 @@ ScreenShot/*.png
 OscylohrafWithPageObject/*.png
 OscylohrafWithPageObject/src/log4j2.xml
 Oscylohraf/*.png
+OscylografPOLog4j/*.png
 
 .idea/*
 *.iml
